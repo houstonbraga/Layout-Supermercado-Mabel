@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.img-hero {
+    filter: drop-shadow(3px 0px 30px rgba(0, 0, 0, 0.651));
+}
+
+
+
